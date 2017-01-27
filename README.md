@@ -6,7 +6,7 @@ Bash script, which create a .todo file.
 
 For example: 
   
-  27.01.2017 Записки.todo
+> 27.01.2017 Записки.todo
 
 With this text inside:
 
